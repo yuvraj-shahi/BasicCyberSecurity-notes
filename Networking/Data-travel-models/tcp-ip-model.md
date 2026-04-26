@@ -1,7 +1,7 @@
 # TCP/IP model (Transmission Control Protocol/ Internet Protocol)
 It has four layers . It is a practical approach . It is a integrated form of osi model.
 
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 ## Four Layers of tcp/ip model
 ### - Application Layer
